@@ -42,6 +42,15 @@ nav a {
     color: white;
     text-decoration: none;
     background-color: var(--varlaranja);
-    padding: 7px;
+    padding: 7px 15px;
     border-radius: 5px;
+    font-weight: bold;
 }
+main {
+    width: 100vw;
+}
+#inicio {
+    width: 100vw;
+    height: 500px;
+    background-color: var(--varlaranja);
+}   
